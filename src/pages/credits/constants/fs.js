@@ -15,6 +15,11 @@ const FSInfo = [
               Environment Agency of Abu Dhabi
             </a>
           </li>
+		  <li>
+            <a href="https://www.canada.ca/en/environment-climate-change.html" target="_blank" rel="noopener noreferrer">
+              Environment and Climate Change, Canada
+            </a>
+          </li>
         </ul>
         <h2>Waterbird Populations Estimates Portal (2012)</h2>
         <ul>
@@ -74,6 +79,19 @@ const FSInfo = [
             Governments of The Netherlands, Germany, France, the United Kingdom, the Czech Republic,
             Croatia and the European Commission
           </li>
+        </ul>
+		<h2>Conservation Status Reviews of East Asian-Australasian migratory waterbirds</h2>
+        <ul>
+          <li>
+		  <a href="https://www.eaaflyway.net/" target="_blank" rel="noopener noreferrer">
+		  East Asian – Australasian Flyway Partnership (EAAFP)
+		  </a>
+		  </li>
+          <li>
+            <a href="https://www.environmentagency.no/" target="_blank" rel="noopener noreferrer">
+			Norwegian Environment Agency 
+          </a>
+		  </li>
         </ul>
       </div>
     ),
