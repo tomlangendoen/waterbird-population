@@ -2,6 +2,56 @@ import React from 'react';
 
 const ECInfo = [
   {
+    title: 'East Asian-Australasian Flyway CSR 1st Edition',
+    description: (
+      <div className="l-ec-card">
+        {/* <img src={Image5} alt="East Asian-Australasian Flyway CSR 1st Edition" /> */}
+        <ul>
+          <li>
+            <strong>Editors:</strong> Taej Mundkur & Tom Langendoen
+          </li>          
+          <li>
+            <strong>Special Contributors:</strong> Nick Davidson, David Melville, Chang-yong Choi, Sergey Dereliev, Richard Fuller, Casey Burns, Noboru Nakamura, Jonathan C. Slaght, Qing Zheng, Doug Watkins, Vivian Fu, Hyeseon Do, Sirui Ye, Tímea Kocsis, Ward Hagemeijer & Szabolcs Nagy
+          </li>
+          <li>
+            <strong>Asian Waterbird Census coordinators:</strong> Hong Chamnan, Tomoko Ichikawa, Hwajung Kim, Da-Li Lin, David Melville, Toshifumi Moriya, Yus Rusila Noor & Yat-Tung Yu
+          </li>
+          <li>
+            <strong>Anatidae Working Group leads:</strong> Masayuki Kurechi & Katsumi Ushiyama
+          </li>
+          <li>
+            <strong>Crane Working Group leads:</strong> Zhang Zhizhong, Kim Jin Han & Simba Chan
+          </li>
+          <li>
+            <strong>Seabird Working Group leads:</strong> Robb Kaler & Yat-tung Yu
+          </li>
+          <li>
+            <strong>Shorebird Working Group leads:</strong> Richard Lanctot, David Li & Philip Straw
+          </li>
+          <li>
+            <strong>Black-faced Spoonbill Working Group leads:</strong> Kisup Lee & Yat-tung Yu
+          </li>
+          <li>
+            <strong>Baer’s Pochard Task Force leads:</strong> Changqing Ding, Richard Hearn, Lei Cao, Sergey Surmach, Aleksey Antonov & Thiri Dae We Aung
+          </li>
+          <li>
+            <strong>Far Eastern Curlew Task Force leads:</strong> Mark Carey & Steve Klose
+          </li>
+          <li>
+            <strong>Spoon-billed Sandpiper Task Force leads:</strong> Guangchun Lei & Diana Solovyeva
+          </li>
+          <li>
+            <strong>Dalmatian Pelican Task Force leads:</strong> Nyambayar Batbayar & Shengwu Jiao
+          </li>
+        </ul>
+        <h4>EXPERTS:</h4>
+        <p>
+          Brad Andres, George Archibald, Qingquan Bai, Dave Bakewell, S Balachandran, Bas van Balen, Phil Battley, Mark R. Bezuijen, Ying Chi Chan, Jimmy Choi, Chang-Yong Choi, Jesse Conklin, Nick Davidson, Devinder Singh Dhadwal, Igor Fefelov, Julian Fischer, Richard Fuller, Stephen Garnett, Ken Gosbell, Ward Hagemeijer, Birgita Hansen, Chris Hassell, Jiang Hongxing, Elena Ilyashenko, Micha Jackson, Roger Jaensch, Jin Jiefeng, Arne Jensen, Allen Jeyarajasingam, Yifei Jia, Kyong-Chol Kim, Woo-Yuel Kim, Marcel Klaassen, Kazuo Koyama, Benoit Laliberte, Fanjuan Ma, Nikki McArthur, Bruce McKinlay, Spike Millington, Ma Ming, Claire Mirande, Yulia Satsuki Momose, Nial Moores, Colin O'Donnell, Kiyoaki Ozaki, Olga Prokopenko, T Piyakarn, Nuchjaree Purchkoon, Pinjia Que, Adrian Riegen, Xiaotong Ren, Chung-Song Ri, Danny Rogers, Philip D. Round, Sonia Rozenfeld, Daniel R. Ruthrauff, Jin Ryu, Paul Sagar, Yusuke Sawa, Anthony Sebastian, Sampath Seneviratne, Boripat Siriaroonrat, Tetsuo Shimada, Ha-Cheol Sung, Pavel Tomkovich, Terry Townshend, Triet Tran, Brian Uher-Koch, Tatsuya Ura, Eric J. Woehler, Chol-Nam Yun, Ma Zhijun & Bingrun Zhu
+        </p>
+      </div>
+    ),
+  },
+  {
     title: 'WPE 5th Edition',
     description: (
       <div className="l-ec-card">
