@@ -85,21 +85,7 @@ const Section1 = ({ setFilters, filters }) => {
                       </li>
                     </div>
                   ))}
-                <div className="col-lg-4 col-md-6 col-xsm-12 center-xs">
-                  <li key="ramsar">
-                    <Link
-                      to={{
-                        type: 'EXPLORE',
-                        payload: { pathname: 'explore' },
-                        query: { publication: 5 },
-                      }}
-                      onClick={() => handleClick(5)}
-                    >
-                      RAMSAR: Ramsar Convention on Wetlands
-                    </Link>
-                  </li>
-                </div>
-              </ul>
+               </ul>
             </nav>
           </div>
         </div>
